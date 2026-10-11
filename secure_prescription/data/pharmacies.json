@@ -1,0 +1,8 @@
+{
+    "PHARM001": {
+        "pharmacy_id": "PHARM001",
+        "name": "St. Jude Central Hospital Pharmacy",
+        "location": "Building A, Floor 1",
+        "active_key_id": "PHARM001-ENC-001"
+    }
+}

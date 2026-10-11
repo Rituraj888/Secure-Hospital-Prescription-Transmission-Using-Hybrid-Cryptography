@@ -1,0 +1,9 @@
+{
+    "key_id": "PHARM001-ENC-001",
+    "owner_id": "PHARM001",
+    "owner_type": "pharmacy",
+    "purpose": "ENCRYPTION",
+    "created_at": "2026-10-07T18:40:31.810527+00:00",
+    "expires_at": "2026-11-06T18:40:31.810527+00:00",
+    "status": "ACTIVE"
+}

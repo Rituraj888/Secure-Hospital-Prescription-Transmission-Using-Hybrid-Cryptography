@@ -1,0 +1,9 @@
+{
+    "key_id": "DOC102-SIGN-001",
+    "owner_id": "DOC102",
+    "owner_type": "doctor",
+    "purpose": "SIGNING",
+    "created_at": "2026-10-07T18:40:31.125202+00:00",
+    "expires_at": "2026-11-06T18:40:31.125202+00:00",
+    "status": "ACTIVE"
+}

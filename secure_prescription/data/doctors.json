@@ -1,0 +1,8 @@
+{
+    "DOC102": {
+        "doctor_id": "DOC102",
+        "name": "Dr. Sarah Jenkins",
+        "department": "Cardiology",
+        "active_key_id": "DOC102-SIGN-001"
+    }
+}
